@@ -1,0 +1,39 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Jupyter temporary state (keep .ipynb notebooks)
+.ipynb_checkpoints/
+
+# Local credentials and environment settings
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Generated experiments (keep lesson datasets and illustrations elsewhere)
+outputs/
+artifacts/
+
+# Obsidian per-device state (keep shared vault configuration)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+# Operating system and editor temporary files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+~$*

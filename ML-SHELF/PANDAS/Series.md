@@ -258,7 +258,7 @@ print(data.iloc[0])
 3. กรองสินค้าที่ราคามากกว่า 100
 
 ```python
-print((data[data > 100])
+print(data[data > 100])
 ```
 
 4. คำนวณราคาเฉลี่ย
