@@ -18,11 +18,11 @@ tags:
 | หมวด | เนื้อหาปัจจุบัน | เริ่มอ่าน |
 | --- | --- | --- |
 | ML-SHELF / PANDAS | การจัดการ สำรวจ ทำความสะอาด และแสดงผลข้อมูลด้วย pandas | [สารบัญ pandas](ML-SHELF/PANDAS/README.md) |
-| ML-SHELF / ML | หลักสูตร Machine Learning 27 บท ตั้งแต่พื้นฐาน สถิติ EDA ไปจนถึง Deep Learning, Time Series และ Production | [เข้าใจ Machine Learning ทีละขั้น](ML-SHELF/ML/index.md) |
+| ML-SHELF / ML | หลักสูตร Machine Learning 29 บท ตั้งแต่พื้นฐาน สถิติ EDA ไปจนถึง Deep Learning, Time Series และ Production | [เข้าใจ Machine Learning ทีละขั้น](ML-SHELF/ML/index.md) |
 | ML-SHELF / ALGORITHMS | อธิบายอัลกอริทึม สูตร จุดเด่น ข้อจำกัด และตัวอย่าง Python | [Linear Regression](ML-SHELF/ALGORITHMS/LinearRegression.md) |
 | ML-SHELF / NOTEBOOKS | Notebook สำหรับทดลองโค้ด | [Linear Regression Notebook](ML-SHELF/NOTEBOOKS/linearregression.ipynb) |
 
-ปัจจุบันมีบทเรียน pandas 18 บท หลักสูตร Machine Learning 27 บท
+ปัจจุบันมีบทเรียน pandas 18 บท หลักสูตร Machine Learning 29 บท
 เอกสารอัลกอริทึม 11 เรื่อง เอกสารรวมสูตร และ Notebook สำหรับทดลอง
 
 ## เส้นทางการเรียน
@@ -38,10 +38,10 @@ tags:
 | ช่วง | เนื้อหา |
 |---|---|
 | บท 1–5 | พื้นฐานโมเดล การแบ่งข้อมูล Probability & Statistics, EDA และ Baseline |
-| บท 6–11 | Regression/Classification metrics, ROC/PR, Calibration, Underfitting/Overfitting และ Cross-validation |
-| บท 12–18 | Data Leakage, Pipeline, Preprocessing, Outliers, Anomaly Detection, Feature Engineering และ PCA |
-| บท 19–23 | Optimization, Hyperparameter tuning, Search space, Class imbalance และการเปรียบเทียบโมเดล |
-| บท 24–27 | Deep Learning, Explainability, Time Series และ Production monitoring |
+| บท 7–12 | Regression/Classification metrics, ROC/PR, Calibration, Underfitting/Overfitting และ Cross-validation |
+| บท 13–19 | Data Leakage, Pipeline, Preprocessing, Outliers, Anomaly Detection, Feature Engineering และ PCA |
+| บท 20–24 | Optimization, Hyperparameter tuning, Search space, Class imbalance และการเปรียบเทียบโมเดล |
+| บท 25–28 | Deep Learning, Explainability, Time Series และ Production monitoring |
 
 ดูหัวข้อและคำอธิบายของแต่ละบทได้ที่ [สารบัญ Machine Learning](ML-SHELF/ML/index.md)
 

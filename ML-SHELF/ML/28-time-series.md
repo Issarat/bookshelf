@@ -1,4 +1,4 @@
-# 26. Time Series และ Forecasting
+# 28. Time Series และ Forecasting
 
 Time Series คือข้อมูลที่มีลำดับเวลา เช่นยอดขายรายวัน ราคา หรือค่าจาก Sensor การแบ่งข้อมูลต้องรักษาลำดับเวลาเพื่อจำลองการทำนายอนาคต
 
@@ -98,4 +98,4 @@ for train_index, valid_index in splitter.split(X):
 
 ---
 
-[← บทก่อนหน้า: อธิบายผลโมเดล](25-model-explainability.md) · [สารบัญ](index.md) · [บทถัดไป: นำโมเดลไปใช้งานจริงและติดตามผล →](27-production-monitoring.md)
+[← บทก่อนหน้า: อธิบายผลโมเดล](27-model-explainability.md) · [สารบัญ](index.md) · [บทถัดไป: นำโมเดลไปใช้งานจริงและติดตามผล →](29-production-monitoring.md)

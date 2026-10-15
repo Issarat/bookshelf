@@ -1,4 +1,4 @@
-# 8. วัดผลโมเดล Classification อย่างไร?
+# 10. วัดผลโมเดล Classification อย่างไร?
 
 
 บทก่อนหน้าทำนายตัวเลข แต่การยกเลิกบริการเป็นการเลือกคำตอบระหว่างสองกลุ่ม เรียกว่า **Classification**
@@ -80,4 +80,4 @@ print("Predictions:", predictions)  # [0, 1, 0, 1]
 
 ---
 
-[← บทก่อนหน้า: Metrics สำหรับ Regression](07-regression-metrics.md) · [สารบัญ](index.md) · [บทถัดไป: ROC, Precision–Recall และ Probability Calibration →](09-roc-pr-calibration.md)
+[← บทก่อนหน้า: Metrics สำหรับ Regression](09-regression-metrics.md) · [สารบัญ](index.md) · [บทถัดไป: ROC, Precision–Recall และ Probability Calibration →](11-roc-pr-calibration.md)

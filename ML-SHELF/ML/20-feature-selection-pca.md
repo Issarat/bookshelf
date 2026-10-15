@@ -1,4 +1,4 @@
-# 18. Feature Selection และ PCA
+# 20. Feature Selection และ PCA
 
 Feature Selection เลือกคอลัมน์เดิมที่มีประโยชน์ ส่วน PCA สร้างแกนใหม่จากการผสม Features เดิมเพื่อลดจำนวนมิติ
 
@@ -81,4 +81,4 @@ model.fit(X_train, y_train)
 
 ---
 
-[← บทก่อนหน้า: Feature Engineering](17-feature-engineering.md) · [สารบัญ](index.md) · [บทถัดไป: Optimization: โมเดลหาค่าที่ดีขึ้นได้อย่างไร →](19-optimization.md)
+[← บทก่อนหน้า: Feature Engineering](19-feature-engineering.md) · [สารบัญ](index.md) · [บทถัดไป: Optimization: โมเดลหาค่าที่ดีขึ้นได้อย่างไร →](21-optimization.md)

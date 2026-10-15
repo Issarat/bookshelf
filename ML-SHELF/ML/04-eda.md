@@ -85,4 +85,4 @@ EDA ที่ใช้ตัดสินใจเกี่ยวกับโม�
 
 ---
 
-[← บทก่อนหน้า: Probability และ Statistics สำหรับ Machine Learning](03-probability-statistics.md) · [สารบัญ](index.md) · [บทถัดไป: Baseline: เกณฑ์ขั้นต่ำสำหรับเปรียบเทียบโมเดล →](05-baseline.md)
+[← บทก่อนหน้า: Probability และ Statistics สำหรับ Machine Learning](03-probability-statistics.md) · [สารบัญ](index.md) · [บทถัดไป: Data Visualization →](05-data-visualization.md)

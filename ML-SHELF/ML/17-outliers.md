@@ -1,4 +1,4 @@
-# 15. Outliers: ค่าที่ห่างจากข้อมูลส่วนใหญ่
+# 17. Outliers: ค่าที่ห่างจากข้อมูลส่วนใหญ่
 
 **Outlier** คือข้อมูลที่มีค่าห่างจากข้อมูลส่วนใหญ่มากผิดปกติ ภาษาไทยมักเรียกว่า **ค่าผิดปกติ** หรือ **ค่าสุดโต่ง**
 
@@ -277,4 +277,4 @@ IQR และ Z-score แบบหนึ่งตัวแปรอาจตร�
 
 ---
 
-[← บทก่อนหน้า: เตรียมข้อมูลจริง: Missing Values และ Category](14-preprocessing-real-data.md) · [สารบัญ](index.md) · [บทถัดไป: Anomaly Detection →](16-anomaly-detection.md)
+[← บทก่อนหน้า: เตรียมข้อมูลจริง: Missing Values และ Category](16-preprocessing-real-data.md) · [สารบัญ](index.md) · [บทถัดไป: Anomaly Detection →](18-anomaly-detection.md)

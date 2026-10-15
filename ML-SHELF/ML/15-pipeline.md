@@ -1,4 +1,4 @@
-# 13. Pipeline ช่วยทำขั้นตอนให้ถูกลำดับ
+# 15. Pipeline ช่วยทำขั้นตอนให้ถูกลำดับ
 
 
 ถ้าต้องแปลงข้อมูลก่อนฝึกโมเดล เราสามารถต่อสองขั้นตอนเข้าด้วยกัน เรียกว่า **Pipeline**:
@@ -103,4 +103,4 @@ Pipeline ช่วยจัดการการแปลงข้อมูล�
 
 ---
 
-[← บทก่อนหน้า: Data Leakage: ข้อมูลที่ไม่ควรเห็นหลุดเข้ามาช่วยโมเดล](12-data-leakage.md) · [สารบัญ](index.md) · [บทถัดไป: เตรียมข้อมูลจริง: Missing Values และ Category →](14-preprocessing-real-data.md)
+[← บทก่อนหน้า: Data Leakage: ข้อมูลที่ไม่ควรเห็นหลุดเข้ามาช่วยโมเดล](14-data-leakage.md) · [สารบัญ](index.md) · [บทถัดไป: เตรียมข้อมูลจริง: Missing Values และ Category →](16-preprocessing-real-data.md)

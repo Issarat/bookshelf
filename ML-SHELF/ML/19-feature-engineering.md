@@ -1,4 +1,4 @@
-# 17. Feature Engineering
+# 19. Feature Engineering
 
 Feature Engineering คือการเปลี่ยนข้อมูลดิบให้เป็นข้อมูลที่ช่วยให้โมเดลเห็นรูปแบบของปัญหาได้ชัดขึ้น
 
@@ -123,4 +123,4 @@ Baseline features → CV score A
 
 ---
 
-[← บทก่อนหน้า: Anomaly Detection](16-anomaly-detection.md) · [สารบัญ](index.md) · [บทถัดไป: Feature Selection และ PCA →](18-feature-selection-pca.md)
+[← บทก่อนหน้า: Anomaly Detection](18-anomaly-detection.md) · [สารบัญ](index.md) · [บทถัดไป: Feature Selection และ PCA →](20-feature-selection-pca.md)

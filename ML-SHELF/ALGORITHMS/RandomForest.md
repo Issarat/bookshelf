@@ -696,4 +696,4 @@ ___
 
 ---
 
-[สารบัญ Machine Learning](../ML/index.md) · [Decision Tree](DecisionTree.md) · [Hyperparameter Tuning](../ML/20-hyperparameter-tuning.md) · [Search Space](../ML/21-search-space.md)
+[สารบัญ Machine Learning](../ML/index.md) · [Decision Tree](DecisionTree.md) · [Hyperparameter Tuning](../ML/22-hyperparameter-tuning.md) · [Search Space](../ML/23-search-space.md)

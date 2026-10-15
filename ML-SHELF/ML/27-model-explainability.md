@@ -1,4 +1,4 @@
-# 25. อธิบายผลโมเดล
+# 27. อธิบายผลโมเดล
 
 การอธิบายโมเดลช่วยตอบสองคำถาม:
 
@@ -119,4 +119,4 @@ SHAP ไม่ได้เปลี่ยนความสัมพันธ์
 
 ---
 
-[← บทก่อนหน้า: Deep Learning](24-deep-learning.md) · [สารบัญ](index.md) · [บทถัดไป: Time Series และ Forecasting →](26-time-series.md)
+[← บทก่อนหน้า: Deep Learning](26-deep-learning.md) · [สารบัญ](index.md) · [บทถัดไป: Time Series และ Forecasting →](28-time-series.md)

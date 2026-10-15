@@ -1,4 +1,4 @@
-# 7. Metrics สำหรับ Regression
+# 9. Metrics สำหรับ Regression
 
 Regression ทำนายตัวเลขต่อเนื่อง การเลือก Metric ต้องสัมพันธ์กับผลกระทบของความผิดพลาด
 
@@ -112,4 +112,4 @@ Metric สำหรับเลือกโมเดลควรตรงกั�
 
 ---
 
-[← บทก่อนหน้า: จะรู้ได้อย่างไรว่าทำนายราคาพลาดแค่ไหน?](06-mse-rmse.md) · [สารบัญ](index.md) · [บทถัดไป: วัดผลโมเดล Classification อย่างไร? →](08-classification-metrics.md)
+[← บทก่อนหน้า: จะรู้ได้อย่างไรว่าทำนายราคาพลาดแค่ไหน?](08-mse-rmse.md) · [สารบัญ](index.md) · [บทถัดไป: วัดผลโมเดล Classification อย่างไร? →](10-classification-metrics.md)
