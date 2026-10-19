@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML-SHELF/ML/index.md",
+                "file": "DB-SHELF/WORKSHOPS/kaggle-sql/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "3524c05047916b6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML-SHELF/DATA-VISUALIZATIONS/04-relationships.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04-relationships"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,42 +188,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "3524c05047916b6a",
+  "active": "5f01562034479aa4",
   "lastOpenFiles": [
-    "Untitled.md",
-    "DB-SHELF",
-    "ML-SHELF/DATA-VISUALIZATIONS/04-relationships.md",
-    "ML-SHELF/DATA-VISUALIZATIONS/03-category-bar-chart.md",
-    "ML-SHELF/ML/data-visualization.md",
-    "ML-SHELF/DATA-VISUALIZATIONS/index.md",
-    "ML-SHELF/ML/index.md",
-    "ML-SHELF/ML/hyperparameter-tuning.md",
-    "ML-SHELF/DATA-VISUALIZATIONS/08-design-export.md",
-    "ML-SHELF/DATA-VISUALIZATIONS/07-model-evaluation.md",
-    "ML-SHELF/DATA-VISUALIZATIONS/06-data-quality-shift.md",
-    "ML-SHELF/DATA-VISUALIZATIONS/05-time-series.md",
-    "ML-SHELF/DATA-VISUALIZATIONS/02-distribution.md",
-    "ML-SHELF/DATA-VISUALIZATIONS/01-foundations.md",
-    "ML-SHELF/DATA-VISUALIZATIONS",
-    "ML-SHELF/ML/fuzzy-matching.md",
-    "ML-SHELF/ML/parsing-dates.md",
-    "ML-SHELF/ML/train-validation-test.md",
-    "ML-SHELF/ML/scaling-normalization.md",
-    "ML-SHELF/ML/encoding-decoding.md",
-    "ML-SHELF/ML/production-monitoring.md",
-    "ML-SHELF/ML/time-series.md",
-    "ML-SHELF/ML/model-explainability.md",
-    "ML-SHELF/ML/deep-learning.md",
-    "ML-SHELF/ML/model-comparison.md",
-    "ML-SHELF/ML/class-imbalance-threshold.md",
-    "ML-SHELF/ML/search-space.md",
-    "ML-SHELF/NOTEBOOKS/linearregression.ipynb",
-    "ML-SHELF/NOTEBOOKS/Untitled",
-    "ML-SHELF/NOTEBOOKS",
-    "ML-SHELF/ALGORITHMS",
-    "ML-SHELF/ML",
-    "ML-SHELF/PANDAS/rules",
-    "ML-SHELF/PANDAS",
-    "ML-SHELF"
+    "DB-SHELF/data-center.md",
+    "DB-SHELF/big-data.md",
+    "DB-SHELF/data-lake.md",
+    "DB-SHELF/data-warehouse.md",
+    "outputs/kaggle-sql-test/pgdata/pg_stat/pgstat.stat",
+    "outputs/kaggle-sql-test/pgdata/pg_wal/000000010000000000000004",
+    "outputs/kaggle-sql-test/pgdata/base/19648/2615_fsm",
+    "outputs/kaggle-sql-test/pgdata/base/19648/3119",
+    "outputs/kaggle-sql-test/pgdata/base/19648/2754",
+    "outputs/kaggle-sql-test/pgdata/base/19648/2605_fsm",
+    "outputs/kaggle-sql-test/pgdata/base/19648/2606_vm",
+    "outputs/kaggle-sql-test/pgdata/base/19648/1249_fsm",
+    "outputs/kaggle-sql-test/pgdata/base/19648/2660",
+    "outputs/kaggle-sql-test/pgdata/base/19648/2612_vm",
+    "DB-SHELF/WORKSHOPS/kaggle-design-and-migration.md",
+    "DB-SHELF/WORKSHOPS/database-design-workshop.md",
+    "DB-SHELF/audit-logs.md",
+    "DB-SHELF/WORKSHOPS/kaggle-sql/README.md",
+    "DB-SHELF/keys-and-constraints.md",
+    "DB-SHELF/isolation-and-mvcc.md",
+    "DB-SHELF/indexes-and-pagination.md",
+    "DB-SHELF/history-and-hierarchies.md",
+    "DB-SHELF/foundations.md",
+    "DB-SHELF/database-testing.md",
+    "DB-SHELF/data-types.md",
+    "DB-SHELF/data-lifecycle.md",
+    "DB-SHELF/data-governance.md",
+    "DB-SHELF/backup-and-restore.md",
+    "DB-SHELF/sql-vs-nosql.md",
+    "DB-SHELF/transactions-and-concurrency.md",
+    "DB-SHELF/time-language-and-collation.md",
+    "DB-SHELF/README.md",
+    "DB-SHELF/replication.md",
+    "DB-SHELF/security-views-and-migrations.md",
+    "DB-SHELF/practical-design.md",
+    "DB-SHELF/performance-and-maintenance.md"
   ]
 }
