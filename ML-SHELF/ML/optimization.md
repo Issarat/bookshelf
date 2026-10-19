@@ -1,4 +1,4 @@
-# 21. Optimization: โมเดลหาค่าที่ดีขึ้นได้อย่างไร
+# 25. Optimization: โมเดลหาค่าที่ดีขึ้นได้อย่างไร
 
 **Optimization** คือกระบวนการค้นหาค่าพารามิเตอร์ที่ทำให้ Objective หรือ Loss ต่ำลง การฝึกโมเดลจึงต่างจาก Hyperparameter tuning: การฝึกหา Weights ภายในโมเดล ส่วน Tuning ทดลองค่าที่ผู้พัฒนากำหนด เช่น `max_depth` หรือ `C`
 
@@ -129,4 +129,4 @@ Features ที่มีสเกลต่างกันมากทำให�
 
 ---
 
-[← บทก่อนหน้า: Feature Selection และ PCA](feature-selection-pca.md) · [สารบัญ](index.md) · [บทถัดไป: Hyperparameter คือค่าที่เราเลือกให้โมเดล →](hyperparameter-tuning.md)
+[← บทก่อนหน้า: Feature Selection และ PCA](feature-selection-pca.md) | [สารบัญ](index.md) | [บทถัดไป: Hyperparameter คือค่าที่เราเลือกให้โมเดล →](hyperparameter-tuning.md)

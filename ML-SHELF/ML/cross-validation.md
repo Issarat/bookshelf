@@ -1,4 +1,4 @@
-# 13. Cross-validation คือการลองสอบหลายรอบ
+# 15. Cross-validation คือการลองสอบหลายรอบ
 
 การลองสอบด้วยข้อมูลส่วนเดียวอาจได้ผลดีหรือแย่เพราะบังเอิญเลือกข้อสอบชุดนั้น เราจึงแบ่งข้อมูลฝึกเป็นส่วน ๆ แล้วสลับส่วนที่ใช้สอบ
 
@@ -184,4 +184,4 @@ $$
 
 ---
 
-[← บทก่อนหน้า: Underfitting และ Overfitting](underfitting-overfitting.md) · [สารบัญ](index.md) · [บทถัดไป: Data Leakage: ข้อมูลที่ไม่ควรเห็นหลุดเข้ามาช่วยโมเดล →](data-leakage.md)
+[← บทก่อนหน้า: Underfitting และ Overfitting](underfitting-overfitting.md) | [สารบัญ](index.md) | [บทถัดไป: Data Leakage: ข้อมูลที่ไม่ควรเห็นหลุดเข้ามาช่วยโมเดล →](data-leakage.md)

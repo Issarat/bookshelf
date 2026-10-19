@@ -98,6 +98,52 @@ r=\frac{\sum_{i=1}^{n}(x_i-\bar{x})(y_i-\bar{y})}
 \sqrt{\sum_{i=1}^{n}(y_i-\bar{y})^2}}
 $$
 
+### MinMaxScaler
+
+ปรับ Feature ให้อยู่ในช่วง `0–1`:
+
+$$
+x' = \frac{x - x_{\min}}{x_{\max} - x_{\min}}
+$$
+
+### RobustScaler
+
+ใช้ Median และ IQR จึงทนต่อ Outliers มากกว่า:
+
+$$
+x' = \frac{x - \operatorname{Median}(x)}{Q_3 - Q_1}
+$$
+
+โดย $Q_1$ คือควอไทล์ที่ 1 และ $Q_3$ คือควอไทล์ที่ 3
+
+### MaxAbsScaler
+
+หารด้วยค่าสัมบูรณ์ที่มากที่สุดของ Feature:
+
+$$
+x' = \frac{x}{\max(|x|)}
+$$
+
+### L1 และ L2 Normalization
+
+สำหรับข้อมูลหนึ่งแถว $\mathbf{x}=(x_1,\ldots,x_p)$:
+
+$$
+\|\mathbf{x}\|_1 = \sum_{j=1}^{p}|x_j|
+$$
+
+$$
+\|\mathbf{x}\|_2 = \sqrt{\sum_{j=1}^{p}x_j^2}
+$$
+
+จากนั้นปรับแถวด้วย:
+
+$$
+\mathbf{x}' = \frac{\mathbf{x}}{\|\mathbf{x}\|}
+$$
+
+ดูคำอธิบายและตัวอย่างโค้ดที่ [Scaling และ Normalization](scaling-normalization.md)
+
 ## 3. การแบ่งข้อมูลและ Cross-validation
 
 ถ้ามีข้อมูล $n$ แถวและกำหนด `test_size=r`:
@@ -488,6 +534,46 @@ $\eta$ ต่ำทำให้แต่ละต้นแก้ทีละน�
 
 ## 13. Feature Engineering และ Explainability
 
+### Fuzzy Matching
+
+Levenshtein Distance คือจำนวนการเพิ่ม ลบ หรือแทนที่ตัวอักษรขั้นต่ำ เพื่อเปลี่ยนข้อความ $a$ เป็น $b$:
+
+$$
+d(a,b)=\text{จำนวนการแก้ไขขั้นต่ำจาก }a\text{ ไปเป็น }b
+$$
+
+ตัดสินการจับคู่ด้วยคะแนนและ Threshold $\tau$:
+
+$$
+\text{match}=
+\begin{cases}
+1, & \text{score}\geq\tau\\
+0, & \text{score}<\tau
+\end{cases}
+$$
+
+ดูวิธีเลือก Scorer และ Threshold ที่ [Fuzzy Matching](fuzzy-matching.md)
+
+### วันที่และเวลา
+
+ระยะเวลาระหว่างสองเหตุการณ์:
+
+$$
+\Delta t=t_{\text{end}}-t_{\text{start}}
+$$
+
+ข้อมูลที่วนเป็นรอบ เช่น เดือนหรือวันในสัปดาห์ สามารถแปลงเป็นคู่ Sine/Cosine:
+
+$$
+x_{\sin}=\sin\left(2\pi\frac{x}{P}\right)
+$$
+
+$$
+x_{\cos}=\cos\left(2\pi\frac{x}{P}\right)
+$$
+
+$P$ คือความยาวหนึ่งรอบ เช่น $12$ สำหรับเดือน ดูตัวอย่างที่ [Parsing Dates](parsing-dates.md)
+
 ### PCA
 
 สัดส่วนความแปรปรวนที่ Principal component $j$ อธิบายได้:
@@ -619,7 +705,35 @@ $$
 \mathrm{Perplexity}=e^L
 $$
 
-อัตราส่วนและ Interaction:
+### Encoding และ Decoding
+
+Frequency Encoding ของ Category $c$:
+
+$$
+\operatorname{freq}(c)=\frac{n_c}{n}
+$$
+
+Target Encoding แบบค่าเฉลี่ย:
+
+$$
+\operatorname{TE}(c)
+=\frac{1}{n_c}\sum_{i:x_i=c}y_i
+$$
+
+Target Encoding ต้องสร้างจาก Train และควรใช้ Out-of-fold encoding เพื่อลด Target Leakage
+
+Autoencoder เรียนรู้ Latent representation แล้วสร้าง Input กลับ:
+
+$$
+z=f_{\text{encoder}}(x),\qquad
+\hat{x}=g_{\text{decoder}}(z)
+$$
+
+$$
+L=\frac{1}{n}\sum_{i=1}^{n}\|x_i-\hat{x}_i\|^2
+$$
+
+### อัตราส่วนและ Interaction
 
 $$
 x_{\text{ratio}}=\frac{x_a}{x_b}

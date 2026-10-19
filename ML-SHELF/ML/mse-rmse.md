@@ -1,4 +1,4 @@
-# 8. จะรู้ได้อย่างไรว่าทำนายราคาพลาดแค่ไหน?
+# 10. จะรู้ได้อย่างไรว่าทำนายราคาพลาดแค่ไหน?
 
 
 ลองดูบ้าน 2 หลัง โดยใช้หน่วยราคาเป็นล้านบาท:
@@ -64,4 +64,4 @@ print("ตรงกับ sklearn:", mse_manual == mse_sklearn)
 
 ---
 
-[← บทก่อนหน้า: Baseline: เกณฑ์ขั้นต่ำสำหรับเปรียบเทียบโมเดล](baseline.md) · [สารบัญ](index.md) · [บทถัดไป: Metrics สำหรับ Regression →](regression-metrics.md)
+[← บทก่อนหน้า: Baseline: เกณฑ์ขั้นต่ำสำหรับเปรียบเทียบโมเดล](baseline.md) | [สารบัญ](index.md) | [บทถัดไป: Metrics สำหรับ Regression →](regression-metrics.md)

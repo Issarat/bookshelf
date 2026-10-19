@@ -85,4 +85,4 @@ EDA ที่ใช้ตัดสินใจเกี่ยวกับโม�
 
 ---
 
-[← บทก่อนหน้า: Probability และ Statistics สำหรับ Machine Learning](probability-statistics.md) · [สารบัญ](index.md) · [บทถัดไป: Data Visualization →](data-visualization.md)
+[← บทก่อนหน้า: Probability และ Statistics สำหรับ Machine Learning](probability-statistics.md) | [สารบัญ](index.md) | [บทถัดไป: Data Visualization →](data-visualization.md)

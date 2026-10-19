@@ -139,4 +139,4 @@ model = RandomForestClassifier(
 
 ---
 
-[← บทก่อนหน้า: โมเดลเรียนรู้อะไร?](model-learning.md) · [สารบัญ](index.md) · [บทถัดไป: Probability และ Statistics สำหรับ Machine Learning →](probability-statistics.md)
+[← บทก่อนหน้า: โมเดลเรียนรู้อะไร?](model-learning.md) | [สารบัญ](index.md) | [บทถัดไป: Probability และ Statistics สำหรับ Machine Learning →](probability-statistics.md)

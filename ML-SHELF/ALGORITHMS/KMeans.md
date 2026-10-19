@@ -320,4 +320,4 @@ K-Means แบ่งข้อมูลทุกแถวเข้ากลุ่
 
 ---
 
-[สารบัญ](../ML/index.md) · [รวมสูตร](../ML/formulas.md) · [Outliers](outliers.md)
+[สารบัญ](../ML/index.md) · [รวมสูตร](../ML/formulas.md) · [Outliers](../ML/outliers.md)

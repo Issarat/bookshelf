@@ -214,4 +214,4 @@ model = LogisticRegression(
 
 ---
 
-[สารบัญ Machine Learning](../ML/index.md) · [Classification Metrics](classification-metrics.md) · [Decision Tree](DecisionTree.md)
+[สารบัญ Machine Learning](../ML/index.md) · [Classification Metrics](../ML/classification-metrics.md) · [Decision Tree](DecisionTree.md)

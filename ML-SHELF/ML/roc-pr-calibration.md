@@ -1,4 +1,4 @@
-# 11. ROC, Precision–Recall และ Probability Calibration
+# 13. ROC, Precision–Recall และ Probability Calibration
 
 Classification metrics ที่ Threshold เดียวไม่แสดงพฤติกรรมทุกจุด ROC และ Precision–Recall curves ช่วยเปรียบเทียบหลาย Threshold ส่วน Calibration ตรวจว่า Probability มีความหมายตรงกับเหตุการณ์จริงหรือไม่
 
@@ -84,4 +84,4 @@ y_pred = (probability >= threshold).astype(int)
 
 ---
 
-[← บทก่อนหน้า: วัดผลโมเดล Classification อย่างไร?](classification-metrics.md) · [สารบัญ](index.md) · [บทถัดไป: Underfitting และ Overfitting →](underfitting-overfitting.md)
+[← บทก่อนหน้า: วัดผลโมเดล Classification อย่างไร?](classification-metrics.md) | [สารบัญ](index.md) | [บทถัดไป: Underfitting และ Overfitting →](underfitting-overfitting.md)

@@ -368,5 +368,5 @@ X = np.array([50, 100, 150])  # เป็นข้อมูลหนึ่งม
 
 ---
 
-[← บทที่ 1: โมเดลเรียนรู้อะไร?](model-learning.md) · [สารบัญ](../ML/index.md) · [บทที่ 3: MSE และ RMSE →](mse-rmse.md)
+[บทที่ 1: โมเดลเรียนรู้อะไร?](../ML/model-learning.md) · [สารบัญ](../ML/index.md) · [บทที่ 8: MSE และ RMSE](../ML/mse-rmse.md)
 

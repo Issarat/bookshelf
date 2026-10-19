@@ -1,4 +1,4 @@
-# 18. Anomaly Detection
+# 22. Anomaly Detection
 
 Anomaly Detection คือการค้นหาแถวที่แตกต่างจากรูปแบบส่วนใหญ่ เหมาะกับการตรวจธุรกรรมผิดปกติ เครื่องจักรเสีย หรือข้อมูลจาก Sensor ที่ผิดธรรมชาติ
 
@@ -71,4 +71,4 @@ labels = model.fit_predict(X_train)
 
 ---
 
-[← บทก่อนหน้า: Outliers: ค่าที่ห่างจากข้อมูลส่วนใหญ่](outliers.md) · [สารบัญ](index.md) · [บทถัดไป: Feature Engineering →](feature-engineering.md)
+[← บทก่อนหน้า: Outliers: ค่าที่ห่างจากข้อมูลส่วนใหญ่](outliers.md) | [สารบัญ](index.md) | [บทถัดไป: Feature Engineering →](feature-engineering.md)

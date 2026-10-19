@@ -1,4 +1,4 @@
-# 25. เปรียบเทียบโมเดลอย่างยุติธรรม
+# 29. เปรียบเทียบโมเดลอย่างยุติธรรม
 
 การบอกว่าโมเดลหนึ่งดีกว่าอีกโมเดลต้องให้ทุกโมเดลสอบด้วยข้อมูลและกติกาเดียวกัน
 
@@ -154,4 +154,4 @@ Test     → ประเมินตัวเลือกสุดท้าย�
 
 ---
 
-[← บทก่อนหน้า: Class Imbalance และการเลือก Threshold](class-imbalance-threshold.md) · [สารบัญ](index.md) · [บทถัดไป: Deep Learning →](deep-learning.md)
+[← บทก่อนหน้า: Class Imbalance และการเลือก Threshold](class-imbalance-threshold.md) | [สารบัญ](index.md) | [บทถัดไป: Deep Learning →](deep-learning.md)

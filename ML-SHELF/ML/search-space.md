@@ -1,4 +1,4 @@
-# 23. Search Space: เลือกช่วงค่าที่จะค้นหา
+# 27. Search Space: เลือกช่วงค่าที่จะค้นหา
 
 
 **Search space คือรายการค่าหรือช่วงค่าที่ให้ระบบค้นหา** เช่น:
@@ -52,4 +52,4 @@ print("alpha:", alpha_values)
 
 ---
 
-[← บทก่อนหน้า: Hyperparameter คือค่าที่เราเลือกให้โมเดล](hyperparameter-tuning.md) · [สารบัญ](index.md) · [บทถัดไป: Class Imbalance และการเลือก Threshold →](class-imbalance-threshold.md)
+[← บทก่อนหน้า: Hyperparameter คือค่าที่เราเลือกให้โมเดล](hyperparameter-tuning.md) | [สารบัญ](index.md) | [บทถัดไป: Class Imbalance และการเลือก Threshold →](class-imbalance-threshold.md)

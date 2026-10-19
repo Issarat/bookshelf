@@ -1,4 +1,4 @@
-# 12. Underfitting และ Overfitting
+# 14. Underfitting และ Overfitting
 
 Underfitting และ Overfitting อธิบายว่าโมเดลเรียนรู้รูปแบบจากข้อมูลน้อยหรือมากเกินไป เป้าหมายคือโมเดลที่เรียนรู้รูปแบบจริงและทำนายข้อมูลใหม่ได้ดี
 
@@ -322,4 +322,4 @@ plt.show()
 
 ---
 
-[← บทก่อนหน้า: ROC, Precision–Recall และ Probability Calibration](roc-pr-calibration.md) · [สารบัญ](index.md) · [บทถัดไป: Cross-validation คือการลองสอบหลายรอบ →](cross-validation.md)
+[← บทก่อนหน้า: ROC, Precision–Recall และ Probability Calibration](roc-pr-calibration.md) | [สารบัญ](index.md) | [บทถัดไป: Cross-validation คือการลองสอบหลายรอบ →](cross-validation.md)

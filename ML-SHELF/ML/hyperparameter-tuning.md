@@ -1,4 +1,4 @@
-# 22. Hyperparameter คือค่าที่เราเลือกให้โมเดล
+# 26. Hyperparameter คือค่าที่เราเลือกให้โมเดล
 
 
 ย้อนกลับไปบทแรก ค่า $w$ และ $b$ เป็นค่าที่โมเดลเรียนรู้เอง เรียกว่า **parameters**
@@ -150,4 +150,4 @@ print("Random best:", random_search.best_params_)
 
 ---
 
-[← บทก่อนหน้า: Optimization: โมเดลหาค่าที่ดีขึ้นได้อย่างไร](optimization.md) · [สารบัญ](index.md) · [บทถัดไป: Search Space: เลือกช่วงค่าที่จะค้นหา →](search-space.md)
+[← บทก่อนหน้า: Optimization: โมเดลหาค่าที่ดีขึ้นได้อย่างไร](optimization.md) | [สารบัญ](index.md) | [บทถัดไป: Search Space: เลือกช่วงค่าที่จะค้นหา →](search-space.md)

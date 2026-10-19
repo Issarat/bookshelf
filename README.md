@@ -18,20 +18,22 @@ tags:
 | หมวด | เนื้อหาปัจจุบัน | เริ่มอ่าน |
 | --- | --- | --- |
 | ML-SHELF / PANDAS | การจัดการ สำรวจ ทำความสะอาด และแสดงผลข้อมูลด้วย pandas | [สารบัญ pandas](ML-SHELF/PANDAS/README.md) |
-| ML-SHELF / ML | หลักสูตร Machine Learning 29 บท ตั้งแต่พื้นฐาน สถิติ EDA ไปจนถึง Deep Learning, Time Series และ Production | [เข้าใจ Machine Learning ทีละขั้น](ML-SHELF/ML/index.md) |
+| ML-SHELF / ML | หลักสูตร Machine Learning 33 บท ตั้งแต่พื้นฐาน สถิติ EDA ไปจนถึง Deep Learning, Time Series และ Production | [เข้าใจ Machine Learning ทีละขั้น](ML-SHELF/ML/index.md) |
+| ML-SHELF / DATA-VISUALIZATIONS | การเลือกกราฟ Distribution, Category, Relationships, Time Series และ Model Evaluation | [Data Visualizations สำหรับ Machine Learning](ML-SHELF/DATA-VISUALIZATIONS/index.md) |
 | ML-SHELF / ALGORITHMS | อธิบายอัลกอริทึม สูตร จุดเด่น ข้อจำกัด และตัวอย่าง Python | [Linear Regression](ML-SHELF/ALGORITHMS/LinearRegression.md) |
 | ML-SHELF / NOTEBOOKS | Notebook สำหรับทดลองโค้ด | [Linear Regression Notebook](ML-SHELF/NOTEBOOKS/linearregression.ipynb) |
 
-ปัจจุบันมีบทเรียน pandas 18 บท หลักสูตร Machine Learning 29 บท
-เอกสารอัลกอริทึม 11 เรื่อง เอกสารรวมสูตร และ Notebook สำหรับทดลอง
+ปัจจุบันมีบทเรียน pandas 18 บท หลักสูตร Machine Learning 33 บท
+ชุด Data Visualizations 8 บท เอกสารอัลกอริทึม 11 เรื่อง เอกสารรวมสูตร และ Notebook สำหรับทดลอง
 
 ## เส้นทางการเรียน
 
 1. [pandas](ML-SHELF/PANDAS/README.md) — อ่าน สำรวจ และเตรียมข้อมูล
-2. [Machine Learning](ML-SHELF/ML/index.md) — อ่านตามลำดับจากพื้นฐานไปยังการนำโมเดลไปใช้งานจริง
-3. [Algorithms](#อัลกอริทึม-machine-learning) — เลือกอ่านรายละเอียดของโมเดลแต่ละชนิด
-4. [รวมสูตร Machine Learning](ML-SHELF/ML/formulas.md) — ทบทวนสัญลักษณ์ สูตร และวิธีอ่าน
-5. [Notebook](ML-SHELF/NOTEBOOKS/linearregression.ipynb) — รันโค้ดทีละ Cell และทดลองเปลี่ยนข้อมูล
+2. [Data Visualizations](ML-SHELF/DATA-VISUALIZATIONS/index.md) — เลือกกราฟ อ่านรูปแบบ และสื่อสารข้อมูล
+3. [Machine Learning](ML-SHELF/ML/index.md) — อ่านตามลำดับจากพื้นฐานไปยังการนำโมเดลไปใช้งานจริง
+4. [Algorithms](#อัลกอริทึม-machine-learning) — เลือกอ่านรายละเอียดของโมเดลแต่ละชนิด
+5. [รวมสูตร Machine Learning](ML-SHELF/ML/formulas.md) — ทบทวนสัญลักษณ์ สูตร และวิธีอ่าน
+6. [Notebook](ML-SHELF/NOTEBOOKS/linearregression.ipynb) — รันโค้ดทีละ Cell และทดลองเปลี่ยนข้อมูล
 
 ## เนื้อหา Machine Learning
 

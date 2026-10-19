@@ -1,4 +1,4 @@
-# 26. Deep Learning
+# 30. Deep Learning
 
 **Deep Learning** คือ Machine Learning ที่ใช้ Neural Network หลายชั้นเพื่อเรียนรู้ตัวแทนข้อมูลจากระดับง่ายไปซับซ้อน เช่น ขอบภาพ → รูปร่าง → วัตถุ หรืออักขระ → คำ → ความหมายของประโยค
 
@@ -147,4 +147,4 @@ GPU/Accelerator ช่วยคำนวณเมทริกซ์ขนาด�
 
 ---
 
-[← บทก่อนหน้า: เปรียบเทียบโมเดลอย่างยุติธรรม](model-comparison.md) · [สารบัญ](index.md) · [บทถัดไป: อธิบายผลโมเดล →](model-explainability.md)
+[← บทก่อนหน้า: เปรียบเทียบโมเดลอย่างยุติธรรม](model-comparison.md) | [สารบัญ](index.md) | [บทถัดไป: อธิบายผลโมเดล →](model-explainability.md)

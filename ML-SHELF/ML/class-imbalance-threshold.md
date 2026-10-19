@@ -1,4 +1,4 @@
-# 24. Class Imbalance และการเลือก Threshold
+# 28. Class Imbalance และการเลือก Threshold
 
 Class Imbalance เกิดเมื่อจำนวนข้อมูลแต่ละคลาสต่างกันมาก เช่น ธุรกรรมปกติ 990 รายการและทุจริต 10 รายการ
 
@@ -113,4 +113,4 @@ print(best_threshold, best_precision, best_recall)
 
 ---
 
-[← บทก่อนหน้า: Search Space: เลือกช่วงค่าที่จะค้นหา](search-space.md) · [สารบัญ](index.md) · [บทถัดไป: เปรียบเทียบโมเดลอย่างยุติธรรม →](model-comparison.md)
+[← บทก่อนหน้า: Search Space: เลือกช่วงค่าที่จะค้นหา](search-space.md) | [สารบัญ](index.md) | [บทถัดไป: เปรียบเทียบโมเดลอย่างยุติธรรม →](model-comparison.md)

@@ -77,4 +77,4 @@ print("ราคาที่ทำนาย =", prediction[0], "ล้านบ�
 
 ---
 
-[สารบัญ](index.md) · [บทถัดไป: ทำไมต้องแยกข้อมูลไว้สอบ? →](train-validation-test.md)
+[สารบัญ](index.md) | [บทถัดไป: ทำไมต้องแยกข้อมูลไว้สอบ? →](train-validation-test.md)
