@@ -150,4 +150,4 @@ print("Random best:", random_search.best_params_)
 
 ---
 
-[← บทก่อนหน้า: Optimization: โมเดลหาค่าที่ดีขึ้นได้อย่างไร](21-optimization.md) · [สารบัญ](index.md) · [บทถัดไป: Search Space: เลือกช่วงค่าที่จะค้นหา →](23-search-space.md)
+[← บทก่อนหน้า: Optimization: โมเดลหาค่าที่ดีขึ้นได้อย่างไร](optimization.md) · [สารบัญ](index.md) · [บทถัดไป: Search Space: เลือกช่วงค่าที่จะค้นหา →](search-space.md)

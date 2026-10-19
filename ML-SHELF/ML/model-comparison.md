@@ -154,4 +154,4 @@ Test     → ประเมินตัวเลือกสุดท้าย�
 
 ---
 
-[← บทก่อนหน้า: Class Imbalance และการเลือก Threshold](24-class-imbalance-threshold.md) · [สารบัญ](index.md) · [บทถัดไป: Deep Learning →](26-deep-learning.md)
+[← บทก่อนหน้า: Class Imbalance และการเลือก Threshold](class-imbalance-threshold.md) · [สารบัญ](index.md) · [บทถัดไป: Deep Learning →](deep-learning.md)

@@ -71,4 +71,4 @@ labels = model.fit_predict(X_train)
 
 ---
 
-[← บทก่อนหน้า: Outliers: ค่าที่ห่างจากข้อมูลส่วนใหญ่](17-outliers.md) · [สารบัญ](index.md) · [บทถัดไป: Feature Engineering →](19-feature-engineering.md)
+[← บทก่อนหน้า: Outliers: ค่าที่ห่างจากข้อมูลส่วนใหญ่](outliers.md) · [สารบัญ](index.md) · [บทถัดไป: Feature Engineering →](feature-engineering.md)

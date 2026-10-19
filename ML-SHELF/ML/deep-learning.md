@@ -147,4 +147,4 @@ GPU/Accelerator ช่วยคำนวณเมทริกซ์ขนาด�
 
 ---
 
-[← บทก่อนหน้า: เปรียบเทียบโมเดลอย่างยุติธรรม](25-model-comparison.md) · [สารบัญ](index.md) · [บทถัดไป: อธิบายผลโมเดล →](27-model-explainability.md)
+[← บทก่อนหน้า: เปรียบเทียบโมเดลอย่างยุติธรรม](model-comparison.md) · [สารบัญ](index.md) · [บทถัดไป: อธิบายผลโมเดล →](model-explainability.md)

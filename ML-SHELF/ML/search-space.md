@@ -52,4 +52,4 @@ print("alpha:", alpha_values)
 
 ---
 
-[← บทก่อนหน้า: Hyperparameter คือค่าที่เราเลือกให้โมเดล](22-hyperparameter-tuning.md) · [สารบัญ](index.md) · [บทถัดไป: Class Imbalance และการเลือก Threshold →](24-class-imbalance-threshold.md)
+[← บทก่อนหน้า: Hyperparameter คือค่าที่เราเลือกให้โมเดล](hyperparameter-tuning.md) · [สารบัญ](index.md) · [บทถัดไป: Class Imbalance และการเลือก Threshold →](class-imbalance-threshold.md)

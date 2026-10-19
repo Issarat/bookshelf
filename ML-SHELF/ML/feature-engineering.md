@@ -123,4 +123,4 @@ Baseline features → CV score A
 
 ---
 
-[← บทก่อนหน้า: Anomaly Detection](18-anomaly-detection.md) · [สารบัญ](index.md) · [บทถัดไป: Feature Selection และ PCA →](20-feature-selection-pca.md)
+[← บทก่อนหน้า: Anomaly Detection](anomaly-detection.md) · [สารบัญ](index.md) · [บทถัดไป: Feature Selection และ PCA →](feature-selection-pca.md)

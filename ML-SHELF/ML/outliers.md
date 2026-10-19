@@ -277,4 +277,4 @@ IQR และ Z-score แบบหนึ่งตัวแปรอาจตร�
 
 ---
 
-[← บทก่อนหน้า: เตรียมข้อมูลจริง: Missing Values และ Category](16-preprocessing-real-data.md) · [สารบัญ](index.md) · [บทถัดไป: Anomaly Detection →](18-anomaly-detection.md)
+[← บทก่อนหน้า: เตรียมข้อมูลจริง: Missing Values และ Category](preprocessing-real-data.md) · [สารบัญ](index.md) · [บทถัดไป: Anomaly Detection →](anomaly-detection.md)

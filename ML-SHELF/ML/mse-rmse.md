@@ -64,4 +64,4 @@ print("ตรงกับ sklearn:", mse_manual == mse_sklearn)
 
 ---
 
-[← บทก่อนหน้า: Baseline: เกณฑ์ขั้นต่ำสำหรับเปรียบเทียบโมเดล](07-baseline.md) · [สารบัญ](index.md) · [บทถัดไป: Metrics สำหรับ Regression →](09-regression-metrics.md)
+[← บทก่อนหน้า: Baseline: เกณฑ์ขั้นต่ำสำหรับเปรียบเทียบโมเดล](baseline.md) · [สารบัญ](index.md) · [บทถัดไป: Metrics สำหรับ Regression →](regression-metrics.md)

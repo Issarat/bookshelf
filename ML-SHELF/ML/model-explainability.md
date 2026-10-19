@@ -119,4 +119,4 @@ SHAP ไม่ได้เปลี่ยนความสัมพันธ์
 
 ---
 
-[← บทก่อนหน้า: Deep Learning](26-deep-learning.md) · [สารบัญ](index.md) · [บทถัดไป: Time Series และ Forecasting →](28-time-series.md)
+[← บทก่อนหน้า: Deep Learning](deep-learning.md) · [สารบัญ](index.md) · [บทถัดไป: Time Series และ Forecasting →](time-series.md)

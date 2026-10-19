@@ -113,4 +113,4 @@ print(best_threshold, best_precision, best_recall)
 
 ---
 
-[← บทก่อนหน้า: Search Space: เลือกช่วงค่าที่จะค้นหา](23-search-space.md) · [สารบัญ](index.md) · [บทถัดไป: เปรียบเทียบโมเดลอย่างยุติธรรม →](25-model-comparison.md)
+[← บทก่อนหน้า: Search Space: เลือกช่วงค่าที่จะค้นหา](search-space.md) · [สารบัญ](index.md) · [บทถัดไป: เปรียบเทียบโมเดลอย่างยุติธรรม →](model-comparison.md)

@@ -275,4 +275,4 @@ plt.close()
 
 ---
 
-[← บทก่อนหน้า: Exploratory Data Analysis (EDA)](04-eda.md) · [สารบัญ](index.md) · [บทถัดไป: Data Cleansing และ Missing Data →](06-data-cleansing-missing-data.md)
+[← บทก่อนหน้า: Exploratory Data Analysis (EDA)](eda.md) · [สารบัญ](index.md) · [บทถัดไป: Data Cleansing และ Missing Data →](data-cleansing-missing-data.md)

@@ -84,4 +84,4 @@ y_pred = (probability >= threshold).astype(int)
 
 ---
 
-[← บทก่อนหน้า: วัดผลโมเดล Classification อย่างไร?](10-classification-metrics.md) · [สารบัญ](index.md) · [บทถัดไป: Underfitting และ Overfitting →](12-underfitting-overfitting.md)
+[← บทก่อนหน้า: วัดผลโมเดล Classification อย่างไร?](classification-metrics.md) · [สารบัญ](index.md) · [บทถัดไป: Underfitting และ Overfitting →](underfitting-overfitting.md)

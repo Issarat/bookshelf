@@ -184,4 +184,4 @@ $$
 
 ---
 
-[← บทก่อนหน้า: Underfitting และ Overfitting](12-underfitting-overfitting.md) · [สารบัญ](index.md) · [บทถัดไป: Data Leakage: ข้อมูลที่ไม่ควรเห็นหลุดเข้ามาช่วยโมเดล →](14-data-leakage.md)
+[← บทก่อนหน้า: Underfitting และ Overfitting](underfitting-overfitting.md) · [สารบัญ](index.md) · [บทถัดไป: Data Leakage: ข้อมูลที่ไม่ควรเห็นหลุดเข้ามาช่วยโมเดล →](data-leakage.md)

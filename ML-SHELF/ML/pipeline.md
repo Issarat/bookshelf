@@ -103,4 +103,4 @@ Pipeline ช่วยจัดการการแปลงข้อมูล�
 
 ---
 
-[← บทก่อนหน้า: Data Leakage: ข้อมูลที่ไม่ควรเห็นหลุดเข้ามาช่วยโมเดล](14-data-leakage.md) · [สารบัญ](index.md) · [บทถัดไป: เตรียมข้อมูลจริง: Missing Values และ Category →](16-preprocessing-real-data.md)
+[← บทก่อนหน้า: Data Leakage: ข้อมูลที่ไม่ควรเห็นหลุดเข้ามาช่วยโมเดล](data-leakage.md) · [สารบัญ](index.md) · [บทถัดไป: เตรียมข้อมูลจริง: Missing Values และ Category →](preprocessing-real-data.md)

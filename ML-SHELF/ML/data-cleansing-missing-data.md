@@ -250,4 +250,4 @@ assert df["age"].dropna().between(0, 120).all()
 
 ---
 
-[← บทก่อนหน้า: Data Visualization](05-data-visualization.md) · [สารบัญ](index.md) · [บทถัดไป: Baseline: เกณฑ์ขั้นต่ำสำหรับเปรียบเทียบโมเดล →](07-baseline.md)
+[← บทก่อนหน้า: Data Visualization](data-visualization.md) · [สารบัญ](index.md) · [บทถัดไป: Baseline: เกณฑ์ขั้นต่ำสำหรับเปรียบเทียบโมเดล →](baseline.md)

@@ -228,4 +228,4 @@ Baseline เป็นเพียงเกณฑ์ขั้นต่ำ กา�
 
 ---
 
-[← บทก่อนหน้า: Data Cleansing และ Missing Data](06-data-cleansing-missing-data.md) · [สารบัญ](index.md) · [บทถัดไป: จะรู้ได้อย่างไรว่าทำนายราคาพลาดแค่ไหน? →](08-mse-rmse.md)
+[← บทก่อนหน้า: Data Cleansing และ Missing Data](data-cleansing-missing-data.md) · [สารบัญ](index.md) · [บทถัดไป: จะรู้ได้อย่างไรว่าทำนายราคาพลาดแค่ไหน? →](mse-rmse.md)

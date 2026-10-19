@@ -81,4 +81,4 @@ model.fit(X_train, y_train)
 
 ---
 
-[← บทก่อนหน้า: Feature Engineering](19-feature-engineering.md) · [สารบัญ](index.md) · [บทถัดไป: Optimization: โมเดลหาค่าที่ดีขึ้นได้อย่างไร →](21-optimization.md)
+[← บทก่อนหน้า: Feature Engineering](feature-engineering.md) · [สารบัญ](index.md) · [บทถัดไป: Optimization: โมเดลหาค่าที่ดีขึ้นได้อย่างไร →](optimization.md)

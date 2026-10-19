@@ -98,4 +98,4 @@ for train_index, valid_index in splitter.split(X):
 
 ---
 
-[← บทก่อนหน้า: อธิบายผลโมเดล](27-model-explainability.md) · [สารบัญ](index.md) · [บทถัดไป: นำโมเดลไปใช้งานจริงและติดตามผล →](29-production-monitoring.md)
+[← บทก่อนหน้า: อธิบายผลโมเดล](model-explainability.md) · [สารบัญ](index.md) · [บทถัดไป: นำโมเดลไปใช้งานจริงและติดตามผล →](production-monitoring.md)

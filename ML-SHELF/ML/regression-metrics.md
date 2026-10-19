@@ -112,4 +112,4 @@ Metric สำหรับเลือกโมเดลควรตรงกั�
 
 ---
 
-[← บทก่อนหน้า: จะรู้ได้อย่างไรว่าทำนายราคาพลาดแค่ไหน?](08-mse-rmse.md) · [สารบัญ](index.md) · [บทถัดไป: วัดผลโมเดล Classification อย่างไร? →](10-classification-metrics.md)
+[← บทก่อนหน้า: จะรู้ได้อย่างไรว่าทำนายราคาพลาดแค่ไหน?](mse-rmse.md) · [สารบัญ](index.md) · [บทถัดไป: วัดผลโมเดล Classification อย่างไร? →](classification-metrics.md)

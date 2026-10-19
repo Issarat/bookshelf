@@ -18,35 +18,35 @@ python -m pip install numpy pandas matplotlib scikit-learn
 
 | บท | หัวข้อ | สิ่งที่จะได้เรียนรู้ |
 |---:|---|---|
-| 1 | [โมเดลเรียนรู้อะไร?](01-model-learning.md) | Feature, Target, fit และ predict |
-| 2 | [ทำไมต้องแยกข้อมูลไว้สอบ?](02-train-validation-test.md) | Train, Validation และ Test |
-| 3 | [Probability และ Statistics สำหรับ Machine Learning](03-probability-statistics.md) | Probability และ Sampling |
-| 4 | [Exploratory Data Analysis (EDA)](04-eda.md) | สำรวจข้อมูลก่อนสร้างโมเดล |
-| 5 | [Data Visualization](05-data-visualization.md) | เลือกกราฟและสื่อสารข้อมูลอย่างถูกต้อง |
-| 6 | [Data Cleansing และ Missing Data](06-data-cleansing-missing-data.md) | Cleaning, Missing และ Duplicate |
-| 7 | [Baseline: เกณฑ์ขั้นต่ำสำหรับเปรียบเทียบโมเดล](07-baseline.md) | Baseline |
-| 8 | [จะรู้ได้อย่างไรว่าทำนายราคาพลาดแค่ไหน?](08-mse-rmse.md) | MSE และ RMSE |
-| 9 | [Metrics สำหรับ Regression](09-regression-metrics.md) | Regression metrics |
-| 10 | [วัดผลโมเดล Classification อย่างไร?](10-classification-metrics.md) | Classification metrics |
-| 11 | [ROC, Precision–Recall และ Probability Calibration](11-roc-pr-calibration.md) | ROC/PR และ Calibration |
-| 12 | [Underfitting และ Overfitting](12-underfitting-overfitting.md) | Generalization gap |
-| 13 | [Cross-validation คือการลองสอบหลายรอบ](13-cross-validation.md) | Cross-validation |
-| 14 | [Data Leakage: ข้อมูลที่ไม่ควรเห็นหลุดเข้ามาช่วยโมเดล](14-data-leakage.md) | Data Leakage |
-| 15 | [Pipeline ช่วยทำขั้นตอนให้ถูกลำดับ](15-pipeline.md) | Pipeline |
-| 16 | [เตรียมข้อมูลจริง: Missing Values และ Category](16-preprocessing-real-data.md) | Missing values และ Category |
-| 17 | [Outliers: ค่าที่ห่างจากข้อมูลส่วนใหญ่](17-outliers.md) | Outliers |
-| 18 | [Anomaly Detection](18-anomaly-detection.md) | Anomaly Detection |
-| 19 | [Feature Engineering](19-feature-engineering.md) | Feature Engineering |
-| 20 | [Feature Selection และ PCA](20-feature-selection-pca.md) | Feature Selection และ PCA |
-| 21 | [Optimization: โมเดลหาค่าที่ดีขึ้นได้อย่างไร](21-optimization.md) | Optimization |
-| 22 | [Hyperparameter คือค่าที่เราเลือกให้โมเดล](22-hyperparameter-tuning.md) | Hyperparameters |
-| 23 | [Search Space: เลือกช่วงค่าที่จะค้นหา](23-search-space.md) | Search Space |
-| 24 | [Class Imbalance และการเลือก Threshold](24-class-imbalance-threshold.md) | Class imbalance |
-| 25 | [เปรียบเทียบโมเดลอย่างยุติธรรม](25-model-comparison.md) | Model comparison |
-| 26 | [Deep Learning](26-deep-learning.md) | Deep Learning |
-| 27 | [อธิบายผลโมเดล](27-model-explainability.md) | Explainability |
-| 28 | [Time Series และ Forecasting](28-time-series.md) | Time Series |
-| 29 | [นำโมเดลไปใช้งานจริงและติดตามผล](29-production-monitoring.md) | Production monitoring |
+| 1 | [โมเดลเรียนรู้อะไร?](model-learning.md) | Feature, Target, fit และ predict |
+| 2 | [ทำไมต้องแยกข้อมูลไว้สอบ?](train-validation-test.md) | Train, Validation และ Test |
+| 3 | [Probability และ Statistics สำหรับ Machine Learning](probability-statistics.md) | Probability และ Sampling |
+| 4 | [Exploratory Data Analysis (EDA)](eda.md) | สำรวจข้อมูลก่อนสร้างโมเดล |
+| 5 | [Data Visualization](data-visualization.md) | เลือกกราฟและสื่อสารข้อมูลอย่างถูกต้อง |
+| 6 | [Data Cleansing และ Missing Data](data-cleansing-missing-data.md) | Cleaning, Missing และ Duplicate |
+| 7 | [Baseline: เกณฑ์ขั้นต่ำสำหรับเปรียบเทียบโมเดล](baseline.md) | Baseline |
+| 8 | [จะรู้ได้อย่างไรว่าทำนายราคาพลาดแค่ไหน?](mse-rmse.md) | MSE และ RMSE |
+| 9 | [Metrics สำหรับ Regression](regression-metrics.md) | Regression metrics |
+| 10 | [วัดผลโมเดล Classification อย่างไร?](classification-metrics.md) | Classification metrics |
+| 11 | [ROC, Precision–Recall และ Probability Calibration](roc-pr-calibration.md) | ROC/PR และ Calibration |
+| 12 | [Underfitting และ Overfitting](underfitting-overfitting.md) | Generalization gap |
+| 13 | [Cross-validation คือการลองสอบหลายรอบ](cross-validation.md) | Cross-validation |
+| 14 | [Data Leakage: ข้อมูลที่ไม่ควรเห็นหลุดเข้ามาช่วยโมเดล](data-leakage.md) | Data Leakage |
+| 15 | [Pipeline ช่วยทำขั้นตอนให้ถูกลำดับ](pipeline.md) | Pipeline |
+| 16 | [เตรียมข้อมูลจริง: Missing Values และ Category](preprocessing-real-data.md) | Missing values และ Category |
+| 17 | [Outliers: ค่าที่ห่างจากข้อมูลส่วนใหญ่](outliers.md) | Outliers |
+| 18 | [Anomaly Detection](anomaly-detection.md) | Anomaly Detection |
+| 19 | [Feature Engineering](feature-engineering.md) | Feature Engineering |
+| 20 | [Feature Selection และ PCA](feature-selection-pca.md) | Feature Selection และ PCA |
+| 21 | [Optimization: โมเดลหาค่าที่ดีขึ้นได้อย่างไร](optimization.md) | Optimization |
+| 22 | [Hyperparameter คือค่าที่เราเลือกให้โมเดล](hyperparameter-tuning.md) | Hyperparameters |
+| 23 | [Search Space: เลือกช่วงค่าที่จะค้นหา](search-space.md) | Search Space |
+| 24 | [Class Imbalance และการเลือก Threshold](class-imbalance-threshold.md) | Class imbalance |
+| 25 | [เปรียบเทียบโมเดลอย่างยุติธรรม](model-comparison.md) | Model comparison |
+| 26 | [Deep Learning](deep-learning.md) | Deep Learning |
+| 27 | [อธิบายผลโมเดล](model-explainability.md) | Explainability |
+| 28 | [Time Series และ Forecasting](time-series.md) | Time Series |
+| 29 | [นำโมเดลไปใช้งานจริงและติดตามผล](production-monitoring.md) | Production monitoring |
 
 ## บทเสริม
 

@@ -146,4 +146,4 @@ print("25th, 50th, 75th percentiles:", np.percentile(values, [25, 50, 75]))
 
 ---
 
-[← บทก่อนหน้า: ทำไมต้องแยกข้อมูลไว้สอบ?](02-train-validation-test.md) · [สารบัญ](index.md) · [บทถัดไป: Exploratory Data Analysis (EDA) →](04-eda.md)
+[← บทก่อนหน้า: ทำไมต้องแยกข้อมูลไว้สอบ?](train-validation-test.md) · [สารบัญ](index.md) · [บทถัดไป: Exploratory Data Analysis (EDA) →](eda.md)

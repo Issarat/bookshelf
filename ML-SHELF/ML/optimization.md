@@ -129,4 +129,4 @@ Features ที่มีสเกลต่างกันมากทำให�
 
 ---
 
-[← บทก่อนหน้า: Feature Selection และ PCA](20-feature-selection-pca.md) · [สารบัญ](index.md) · [บทถัดไป: Hyperparameter คือค่าที่เราเลือกให้โมเดล →](22-hyperparameter-tuning.md)
+[← บทก่อนหน้า: Feature Selection และ PCA](feature-selection-pca.md) · [สารบัญ](index.md) · [บทถัดไป: Hyperparameter คือค่าที่เราเลือกให้โมเดล →](hyperparameter-tuning.md)

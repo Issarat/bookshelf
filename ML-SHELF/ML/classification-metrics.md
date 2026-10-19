@@ -80,4 +80,4 @@ print("Predictions:", predictions)  # [0, 1, 0, 1]
 
 ---
 
-[← บทก่อนหน้า: Metrics สำหรับ Regression](09-regression-metrics.md) · [สารบัญ](index.md) · [บทถัดไป: ROC, Precision–Recall และ Probability Calibration →](11-roc-pr-calibration.md)
+[← บทก่อนหน้า: Metrics สำหรับ Regression](regression-metrics.md) · [สารบัญ](index.md) · [บทถัดไป: ROC, Precision–Recall และ Probability Calibration →](roc-pr-calibration.md)

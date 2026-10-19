@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML-SHELF/ML/05-data-visualization.md",
+                "file": "ML-SHELF/ML/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-data-visualization"
+              "title": "index"
+            }
+          },
+          {
+            "id": "3524c05047916b6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML-SHELF/ML/train-validation-test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "train-validation-test"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,34 +203,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f01562034479aa4",
+  "active": "3524c05047916b6a",
   "lastOpenFiles": [
     "ML-SHELF/ML/index.md",
-    "ML-SHELF/ML/19-feature-engineering.md",
-    "ML-SHELF/ML/18-anomaly-detection.md",
-    "ML-SHELF/ML/17-outliers.md",
-    "ML-SHELF/ML/16-preprocessing-real-data.md",
-    "ML-SHELF/ML/15-pipeline.md",
-    "ML-SHELF/ML/14-data-leakage.md",
-    "ML-SHELF/ML/13-cross-validation.md",
-    "ML-SHELF/ML/12-underfitting-overfitting.md",
-    "ML-SHELF/ML/05-data-visualization.md",
-    "ML-SHELF/ML/05-data-cleansing-missing-data.md",
-    "ML-SHELF/ML/11-roc-pr-calibration.md",
-    "ML-SHELF/ML/10-classification-metrics.md",
-    "ML-SHELF/ML/09-regression-metrics.md",
-    "ML-SHELF/ML/08-mse-rmse.md",
-    "ML-SHELF/ML/07-baseline.md",
-    "ML-SHELF/ML/06-data-cleansing-missing-data.md",
-    "ML-SHELF/ML/29-production-monitoring.md",
-    "ML-SHELF/ML/28-time-series.md",
-    "ML-SHELF/ML/27-model-explainability.md",
-    "ML-SHELF/ML/26-deep-learning.md",
-    "ML-SHELF/ML/25-model-comparison.md",
-    "ML-SHELF/ML/24-class-imbalance-threshold.md",
-    "ML-SHELF/ML/23-search-space.md",
-    "ML-SHELF/ML/22-hyperparameter-tuning.md",
-    "ML-SHELF/ML/21-optimization.md",
+    "ML-SHELF/ML/production-monitoring.md",
+    "ML-SHELF/ML/time-series.md",
+    "ML-SHELF/ML/model-explainability.md",
+    "ML-SHELF/ML/deep-learning.md",
+    "ML-SHELF/ML/model-comparison.md",
+    "ML-SHELF/ML/class-imbalance-threshold.md",
+    "ML-SHELF/ML/search-space.md",
+    "ML-SHELF/ML/hyperparameter-tuning.md",
+    "ML-SHELF/ML/optimization.md",
+    "ML-SHELF/ML/feature-selection-pca.md",
+    "ML-SHELF/ML/feature-engineering.md",
+    "ML-SHELF/ML/baseline.md",
+    "ML-SHELF/ML/anomaly-detection.md",
+    "ML-SHELF/ML/outliers.md",
+    "ML-SHELF/ML/preprocessing-real-data.md",
+    "ML-SHELF/ML/pipeline.md",
+    "ML-SHELF/ML/data-leakage.md",
+    "ML-SHELF/ML/cross-validation.md",
+    "ML-SHELF/ML/underfitting-overfitting.md",
+    "ML-SHELF/ML/roc-pr-calibration.md",
+    "ML-SHELF/ML/classification-metrics.md",
+    "ML-SHELF/ML/regression-metrics.md",
+    "ML-SHELF/ML/mse-rmse.md",
+    "ML-SHELF/ML/data-visualization.md",
+    "ML-SHELF/ML/data-cleansing-missing-data.md",
     "ML-SHELF/NOTEBOOKS/linearregression.ipynb",
     "ML-SHELF/NOTEBOOKS/Untitled",
     "ML-SHELF/NOTEBOOKS",

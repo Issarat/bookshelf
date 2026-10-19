@@ -131,4 +131,4 @@ Concept Drift ต้องอาศัย Target จริงที่มาถ�
 
 ---
 
-[← บทก่อนหน้า: Time Series และ Forecasting](28-time-series.md) · [สารบัญ](index.md)
+[← บทก่อนหน้า: Time Series และ Forecasting](time-series.md) · [สารบัญ](index.md)

@@ -366,4 +366,4 @@ safe_features = [
 
 ---
 
-[← บทก่อนหน้า: Cross-validation คือการลองสอบหลายรอบ](13-cross-validation.md) · [สารบัญ](index.md) · [บทถัดไป: Pipeline ช่วยทำขั้นตอนให้ถูกลำดับ →](15-pipeline.md)
+[← บทก่อนหน้า: Cross-validation คือการลองสอบหลายรอบ](cross-validation.md) · [สารบัญ](index.md) · [บทถัดไป: Pipeline ช่วยทำขั้นตอนให้ถูกลำดับ →](pipeline.md)

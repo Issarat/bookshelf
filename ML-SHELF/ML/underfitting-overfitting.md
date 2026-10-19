@@ -322,4 +322,4 @@ plt.show()
 
 ---
 
-[← บทก่อนหน้า: ROC, Precision–Recall และ Probability Calibration](11-roc-pr-calibration.md) · [สารบัญ](index.md) · [บทถัดไป: Cross-validation คือการลองสอบหลายรอบ →](13-cross-validation.md)
+[← บทก่อนหน้า: ROC, Precision–Recall และ Probability Calibration](roc-pr-calibration.md) · [สารบัญ](index.md) · [บทถัดไป: Cross-validation คือการลองสอบหลายรอบ →](cross-validation.md)

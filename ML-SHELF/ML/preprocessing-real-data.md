@@ -146,4 +146,4 @@ print(predictions)
 
 ---
 
-[← บทก่อนหน้า: Pipeline ช่วยทำขั้นตอนให้ถูกลำดับ](15-pipeline.md) · [สารบัญ](index.md) · [บทถัดไป: Outliers: ค่าที่ห่างจากข้อมูลส่วนใหญ่ →](17-outliers.md)
+[← บทก่อนหน้า: Pipeline ช่วยทำขั้นตอนให้ถูกลำดับ](pipeline.md) · [สารบัญ](index.md) · [บทถัดไป: Outliers: ค่าที่ห่างจากข้อมูลส่วนใหญ่ →](outliers.md)
