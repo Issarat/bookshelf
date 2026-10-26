@@ -7,6 +7,9 @@ tags:
   - machine-learning
   - database-design
   - postgresql
+  - docker
+  - kubernetes
+  - devops
 ---
 
 # bookshelf
@@ -20,6 +23,8 @@ tags:
 
 | หมวด | เนื้อหาปัจจุบัน | เริ่มอ่าน |
 | --- | --- | --- |
+| DEVOPS-SHELF / DOCKER | Docker Basics และ Advanced: Images, Dockerfile, Networking, Compose, BuildKit, Security และ CI/CD | [สารบัญ Docker](DEVOPS-SHELF/DOCKER/README.md) |
+| DEVOPS-SHELF / KUBERNETES | Kubernetes Basics 8 บท: Kind, GHCR, Pods, Deployments, Services, Configuration และ Storage | [สารบัญ Kubernetes](DEVOPS-SHELF/KUBERNETES/README.md) |
 | DB-SHELF | Database Design และระบบข้อมูล 26 บท ครอบคลุม PostgreSQL, Governance, การดูแล/ขยายระบบ และ Data Warehouse, Data Lake, Big Data, Data Center | [เข้าใจ Database Design ทีละขั้น](DB-SHELF/README.md) |
 | DB-SHELF / WORKSHOPS | 2 Workshop แบบฝึก 6 ขั้น พร้อมเกณฑ์ส่งมอบ: ระบบยืมหนังสือ และ Database Design/Migration จาก Kaggle โดยมีคู่มือ SQL แยก | [สารบัญ Workshop](DB-SHELF/WORKSHOPS/README.md) |
 | ML-SHELF / PANDAS | การจัดการ สำรวจ ทำความสะอาด และแสดงผลข้อมูลด้วย pandas | [สารบัญ pandas](ML-SHELF/PANDAS/README.md) |
@@ -146,3 +151,15 @@ Notebook checkpoints, ไฟล์ลับ และไฟล์สถานะ
 - [Frontmatter และแม่แบบบทเรียน pandas](ML-SHELF/PANDAS/rules/Frontmatter.md)
 
 เอกสารใช้หัวข้อ ลิงก์ สูตร LaTeX, Mermaid และตัวอย่าง Python ในรูปแบบที่ GitHub แสดงผลได้
+
+## Docker และ Kubernetes
+
+บันทึกสรุปภาษาไทยจากซีรีส์ DevOps VN พร้อมลิงก์ต้นฉบับในแต่ละบท แนะนำให้เริ่มจาก Docker ก่อนเรียน Kubernetes
+
+1. [Docker Basics](DEVOPS-SHELF/DOCKER/README.md) — Container, Image, Dockerfile, Networking และ Compose
+2. [Docker Advanced](DEVOPS-SHELF/DOCKER/README.md#docker-advanced) — BuildKit, Image Optimization, Security, Multi-platform, Registry, Production และ CI/CD
+3. [Kubernetes Basics](DEVOPS-SHELF/KUBERNETES/README.md) — สร้าง Cluster ด้วย Kind แล้วฝึก Pods, Deployments, Services, ConfigMaps, Secrets และ PVC จนประกอบ Task API ได้
+
+ไฟล์เหล่านี้เป็นบันทึกสรุป ตัวอย่างที่อ้างถึงโค้ดแอปหรือ Manifests ต้องใช้ไฟล์จากบทความต้นฉบับ ตรวจ Context ก่อนทดลองคำสั่งกับ Kubernetes
+
+Task API ในชุด Kubernetes เก็บข้อมูลในไฟล์ JSON และใช้หนึ่ง Replica ต่างจากตัวอย่าง Docker ที่มี PostgreSQL และ Redis การเพิ่ม Replicas ต้องพิจารณาการเขียนข้อมูลพร้อมกันก่อน
